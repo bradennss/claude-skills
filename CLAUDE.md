@@ -5,6 +5,7 @@ A collection of Claude Code skills for software engineering tasks.
 ## Project Structure
 
 - `skills/claude-md` — skill for updating CLAUDE.md files
+- `skills/rust-dev` — skill for writing and maintaining Rust code
 - `skills/skill-dev` — skill for developing new Claude Code skills
 
 ALWAYS keep this structure up to date when skills are added, removed, or changed.
