@@ -1,6 +1,6 @@
 # claude-skills
 
-A collection of Claude Code skills for software engineering tasks.
+A collection of Claude Code skills I've created for software engineering tasks.
 
 ## Installation
 
